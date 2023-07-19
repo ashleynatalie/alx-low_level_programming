@@ -5,7 +5,9 @@
  * @n: Number to be tested
  *
  *
- * Return: 1 if positive and greater than zero, 0 if is Zero, and -1 * if negative
+ * Return: 1 if positive and greater than zero, 
+ * 0 if is Zero, and -1 
+ *  if negative
 */
 int print_sign(int n)
 {
